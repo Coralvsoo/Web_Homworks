@@ -1,0 +1,50 @@
+form{
+    border: solid;
+}
+.top1{
+   
+display: flex;
+gap: 20 px;
+}
+.child{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top2{
+    display: flex;
+    gap: 20px;
+}
+.child1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.rad{
+    display: flex;
+}
+.radch{
+    display: flex;
+}
+
+
+.top3{
+    display: flex;
+    flex-direction:column;
+}
+
+/* input[type="checkbox"]{
+    margin-bottom: 0px;
+} */
+
+.textbottom{
+gap: 1px;
+display: flex;
+}
+.inp{
+    padding: 5px;
+}
+.inp1{
+    padding: 5px;
+}
